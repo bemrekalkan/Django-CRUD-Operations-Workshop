@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
+CRISPY_TEMPLATE_PACK = 'uni_form'
 # Application definition
 
 INSTALLED_APPS = [
